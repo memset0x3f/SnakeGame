@@ -1,6 +1,6 @@
 # Snake Game in Terminal
 
-This is a snake game running in **Linux** Terminal written by python.
+This is a snake game running in **Linux** Terminal written by python. I wrote it as a practice for 'curses' module and a demo for our python group project.
 
 ## IMPORTANT!!
 
@@ -12,7 +12,7 @@ If you want to run it on windows, please install `UniCurses` module first. [UniC
 
 ## Rules and Operations
 
-The rules of the game are exactly the same with the classic one. I wrote it as a practice for 'curses' module and a demo for our python group project.
+The rules of the game are exactly the same with the classic one. 
 
 Player can use arrow keys to control the direction of the snake. Continuous press on the same key will increase the speed of the snake.
 
